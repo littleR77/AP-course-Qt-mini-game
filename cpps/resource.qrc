@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/114005271_p2.png</file>
+        <file>resources/113201048_p1.png</file>
+        <file>resources/113201048_p3.png</file>
+        <file>resources/DesertTileset16x16/DesertTileset16x16/Tileset16x16/Mockup2.png</file>
+        <file>resources/113201048_p3.gif</file>
+        <file>resources/enemy_r.png</file>
+        <file>resources/bocchi_r.gif</file>
+        <file>resources/bocchi_l.gif</file>
+        <file>resources/bocchi.gif</file>
+        <file>resources/leftbocchi.gif</file>
+        <file>resources/slidebocchi_l.gif</file>
+        <file>resources/slidebocchi_r.gif</file>
+        <file>resources/cao.png</file>
+        <file>resources/heart.png</file>
+        <file>resources/speedy.png</file>
+        <file>resources/heal.png</file>
+        <file>resources/addweapon.png</file>
+        <file>resources/blood.png</file>
+        <file>resources/myblood.png</file>
+        <file>resources/round.png</file>
+        <file>resources/enemyR.gif</file>
+        <file>resources/enemy.gif</file>
+        <file>resources/headphoto.png</file>
+        <file>resources/grenade.png</file>
+        <file>resources/explode.gif</file>
+        <file>resources/smokerelease.gif</file>
+        <file>resources/smoke.png</file>
+        <file>resources/lizi.gif</file>
+        <file>resources/dying.gif</file>
+        <file>resources/enemydying.gif</file>
+        <file>resources/start.wav</file>
+        <file>resources/aaa.m4a</file>
+        <file>resources/amns.m4a</file>
+        <file>resources/biu.m4a</file>
+        <file>resources/feiqilai.m4a</file>
+        <file>resources/man.m4a</file>
+        <file>resources/fire.wav</file>
+        <file>resources/BGM.mp3</file>
+        <file>resources/tool.wav</file>
+        <file>resources/gameover.wav</file>
+    </qresource>
+    <qresource prefix="/:"/>
+</RCC>

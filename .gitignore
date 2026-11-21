@@ -1,0 +1,23 @@
+# Build output
+build/
+debug/
+release/
+Debug/
+Release/
+x64/
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+
+# qmake / Qt Creator
+.qmake.stash
+Makefile*
+*.pro.user
+*.pro.user.*
+
+# Visual Studio / Qt VS Tools
+.vs/
+*.vcxproj.user
+*.qtvscr

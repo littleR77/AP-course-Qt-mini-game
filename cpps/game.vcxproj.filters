@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Distribution Files">
+      <UniqueIdentifier>{B83CAF91-C7BF-462F-B76C-EA11631F866C}</UniqueIdentifier>
+      <Extensions>*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Distribution Files">
+      <UniqueIdentifier>{B83CAF91-C7BF-462F-B76C-EA11631F866C}</UniqueIdentifier>
+      <Extensions>*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game_mode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main_ui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="normal_mode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="player1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="Game_mode.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="character.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="enemy.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="main_ui.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="normal_mode.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="player.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="player1.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="weapon.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="weapon1.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="main_ui.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\113201048_p1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\113201048_p3.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\113201048_p3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\114005271_p2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\BGM.mp3">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\DesertTileset16x16\DesertTileset16x16\Tileset16x16\Mockup2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\aaa.m4a">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\addweapon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\amns.m4a">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\biu.m4a">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\blood.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\bocchi.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\bocchi_l.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\bocchi_r.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\cao.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\dying.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\enemy.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\enemyR.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\enemy_r.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\enemydying.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\explode.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\feiqilai.m4a">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\fire.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\grenade.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\headphoto.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\heal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\heart.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\leftbocchi.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\lizi.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\man.m4a">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\myblood.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="resource.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="resources\round.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\slidebocchi_l.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\slidebocchi_r.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\smoke.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\smokerelease.gif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\speedy.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\start.wav">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="-">
+      <Filter>Distribution Files</Filter>
+    </None>
+    <None Include="Basic">
+      <Filter>Distribution Files</Filter>
+    </None>
+    <None Include="pack\Tilesets\Hills.png">
+      <Filter>Distribution Files</Filter>
+    </None>
+    <None Include="Lands">
+      <Filter>Distribution Files</Filter>
+    </None>
+    <None Include="Sprites">
+      <Filter>Distribution Files</Filter>
+    </None>
+    <None Include="Sprout">
+      <Filter>Distribution Files</Filter>
+    </None>
+    <None Include="pack\Sprout">
+      <Filter>Distribution Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
